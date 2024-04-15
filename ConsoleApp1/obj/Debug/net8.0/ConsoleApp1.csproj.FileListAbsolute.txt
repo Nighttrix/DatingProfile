@@ -1,0 +1,14 @@
+/home/voodoo_child/Desktop/Projects/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1
+/home/voodoo_child/Desktop/Projects/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.deps.json
+/home/voodoo_child/Desktop/Projects/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.runtimeconfig.json
+/home/voodoo_child/Desktop/Projects/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.dll
+/home/voodoo_child/Desktop/Projects/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.pdb
+/home/voodoo_child/Desktop/Projects/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/home/voodoo_child/Desktop/Projects/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfoInputs.cache
+/home/voodoo_child/Desktop/Projects/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfo.cs
+/home/voodoo_child/Desktop/Projects/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/home/voodoo_child/Desktop/Projects/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.dll
+/home/voodoo_child/Desktop/Projects/ConsoleApp1/obj/Debug/net8.0/refint/ConsoleApp1.dll
+/home/voodoo_child/Desktop/Projects/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.pdb
+/home/voodoo_child/Desktop/Projects/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.genruntimeconfig.cache
+/home/voodoo_child/Desktop/Projects/ConsoleApp1/obj/Debug/net8.0/ref/ConsoleApp1.dll
