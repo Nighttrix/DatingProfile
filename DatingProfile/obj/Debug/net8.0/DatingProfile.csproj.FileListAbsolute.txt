@@ -1,0 +1,15 @@
+/home/voodoo_child/Desktop/Projects/DatingProfile/obj/Debug/net8.0/DatingProfile.GeneratedMSBuildEditorConfig.editorconfig
+/home/voodoo_child/Desktop/Projects/DatingProfile/obj/Debug/net8.0/DatingProfile.AssemblyInfoInputs.cache
+/home/voodoo_child/Desktop/Projects/DatingProfile/obj/Debug/net8.0/DatingProfile.AssemblyInfo.cs
+/home/voodoo_child/Desktop/Projects/DatingProfile/obj/Debug/net8.0/DatingProfile.csproj.CoreCompileInputs.cache
+/home/voodoo_child/Desktop/Projects/DatingProfile/obj/Debug/net8.0/DatingProfile.sourcelink.json
+/home/voodoo_child/Desktop/Projects/DatingProfile/bin/Debug/net8.0/DatingProfile
+/home/voodoo_child/Desktop/Projects/DatingProfile/bin/Debug/net8.0/DatingProfile.deps.json
+/home/voodoo_child/Desktop/Projects/DatingProfile/bin/Debug/net8.0/DatingProfile.runtimeconfig.json
+/home/voodoo_child/Desktop/Projects/DatingProfile/bin/Debug/net8.0/DatingProfile.dll
+/home/voodoo_child/Desktop/Projects/DatingProfile/bin/Debug/net8.0/DatingProfile.pdb
+/home/voodoo_child/Desktop/Projects/DatingProfile/obj/Debug/net8.0/DatingProfile.dll
+/home/voodoo_child/Desktop/Projects/DatingProfile/obj/Debug/net8.0/refint/DatingProfile.dll
+/home/voodoo_child/Desktop/Projects/DatingProfile/obj/Debug/net8.0/DatingProfile.pdb
+/home/voodoo_child/Desktop/Projects/DatingProfile/obj/Debug/net8.0/DatingProfile.genruntimeconfig.cache
+/home/voodoo_child/Desktop/Projects/DatingProfile/obj/Debug/net8.0/ref/DatingProfile.dll
